@@ -1,0 +1,17 @@
+{
+	"compilerOptions":{
+		"target":"es6"
+		,"outDir":"./test-out"
+		,"rootDir":"./"
+		,"noEmitOnError":true
+		,"module":"commonjs"
+		,"lib":["es6","dom"]
+		,"allowJs" : true
+		,"strictNullChecks": true
+		,"noImplicitReturns": true
+		,"experimentalDecorators": true
+		,"emitDecoratorMetadata": true
+		,"strictPropertyInitialization" : true
+	},
+	"moduleResolution":"node"
+}
