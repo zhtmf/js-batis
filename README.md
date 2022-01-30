@@ -1,5 +1,5 @@
-
-
+[![NPM Version][npm-version-image]][npm-url]
+[![Node.js Version][node-image]][node-url]
 
 # js-batis
 
