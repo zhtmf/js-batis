@@ -1,5 +1,5 @@
 # js-batis
-
+[![npm version](https://badge.fury.io/js/js-batis.svg)](https://badge.fury.io/js/js-batis)
 ## Table of Contents
 
 - [Motivation](#motivation)
